@@ -1,0 +1,24 @@
+{
+  "name": "xiirpl5_17_sheren_guru_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sauravii/XIIRPL5_17_Sheren_Guru_API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sauravii/XIIRPL5_17_Sheren_Guru_API/issues"
+  },
+  "homepage": "https://github.com/sauravii/XIIRPL5_17_Sheren_Guru_API#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
